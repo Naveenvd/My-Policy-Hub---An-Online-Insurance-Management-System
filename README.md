@@ -1,7 +1,3 @@
-Below is a comprehensive and beginner-friendly GitHub README file for your **Online Insurance Management System** project:
-
----
-
 # Online Insurance Management System
 
 A robust and user-friendly web application designed to simplify and streamline insurance management processes. This platform empowers customers to book appointments with agents, explore insurance plans, and manage their schedules with ease, while administrators can efficiently oversee operations.
@@ -74,10 +70,10 @@ A robust and user-friendly web application designed to simplify and streamline i
 ## 🎯 How to Run the Project
 1. Clone the repository:
    
-   git clone https://github.com/your-repo/online-insurance-management.git
+   git clone https://github.com/venkatram-2005/My-Policy-Hub---An-Online-Insurance-Management-System.git
    
 2. Set up the MySQL database using the provided schema.
-3. Configure the database connection in the project (`dbConfig.java`).
+3. Configure the database connection in the project.
 4. Build and deploy the application on a servlet container like Apache Tomcat.
 5. Access the application at `http://localhost:8080/insurance`.
 
@@ -92,4 +88,4 @@ Feel free to contribute or raise issues for improvement!
 
 ---
 
-Let me know if you need further customizations!
+Feel free to fork the repo and add your changes !!!
