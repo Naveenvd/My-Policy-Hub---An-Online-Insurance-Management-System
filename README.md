@@ -41,7 +41,7 @@ A user-friendly web application designed to simplify and streamline insurance ma
 
 ## 🗂 Database Schema
 
-![Untitled (2)](https://github.com/user-attachments/assets/1539e3ef-97ee-4009-9d71-134bd48ce25f)
+![Untitled (3)](https://github.com/user-attachments/assets/05c241dd-25b9-4362-b0e2-6d5716f1e6a5)
 
 ---
 
