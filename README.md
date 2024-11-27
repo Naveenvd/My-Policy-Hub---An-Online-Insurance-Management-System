@@ -15,7 +15,7 @@ A robust and user-friendly web application designed to simplify and streamline i
 
 ### **For Administrators**
 - **Agent Management:** Create and manage agent profiles, schedules, and availability.
-- **Appointment Oversight:** Oversee all bookings, modify or cancel appointments, and resolve conflicts.
+- **Appointment Oversight:** Oversee all bookings of the customers. 
 - **Plan Management:** Add or remove insurance plans to keep information current.
 - **Admin Dashboard:** Centralized access to all data for efficient platform management.
 
