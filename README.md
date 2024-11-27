@@ -62,7 +62,6 @@ A user-friendly web application designed to simplify and streamline insurance ma
 - **Appointment Booking/Cancellation:** Intuitive interface for managing bookings.
   
   ![image](https://github.com/user-attachments/assets/79d38177-a6bd-4304-8aee-eb6c58a97f21)
-  ![image](https://github.com/user-attachments/assets/a81c69cc-aae9-479e-bd8d-14b0d6ca2c7d)
 
 - **Agent Availability:** Allows agents to update their schedules.
   
