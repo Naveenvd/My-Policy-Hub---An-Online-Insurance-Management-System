@@ -40,7 +40,7 @@ A robust and user-friendly web application designed to simplify and streamline i
 ---
 
 ## 🗂 Database Schema
-![image](https://github.com/user-attachments/assets/28c7408b-770e-4cc9-9800-1ae9a09eba06)
+![Untitled (2)](https://github.com/user-attachments/assets/1539e3ef-97ee-4009-9d71-134bd48ce25f)
 
 ---
 
@@ -72,10 +72,9 @@ A robust and user-friendly web application designed to simplify and streamline i
 - Ajit Beniwal
 - Anubhav Bhattacharjee
 - Katikireddy Shalini
-- Rituraj Jha
+- Naveen Vijayakumar 
 - Valluri Venkatram
-- Vijayakumar Naveen
-
+  
 ---
 
 ## 🎯 How to Run the Project
