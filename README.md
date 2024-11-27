@@ -16,7 +16,7 @@ A robust and user-friendly web application designed to simplify and streamline i
 ### **For Administrators**
 - **Agent Management:** Create and manage agent profiles, schedules, and availability.
 - **Appointment Oversight:** Oversee all bookings, modify or cancel appointments, and resolve conflicts.
-- **Plan Management:** Add, update, or remove insurance plans to keep information current.
+- **Plan Management:** Add or remove insurance plans to keep information current.
 - **Admin Dashboard:** Centralized access to all data for efficient platform management.
 
 ---
@@ -40,20 +40,31 @@ A robust and user-friendly web application designed to simplify and streamline i
 ---
 
 ## 🗂 Database Schema
-- **Users:** Manages customer and agent login details and roles.
-- **Agents:** Stores agent information, including expertise and availability.
-- **Appointments:** Tracks booking details such as dates, times, and customer-agent pairing.
-- **Plans:** Contains information about insurance plans (benefits, pricing, etc.).
+![image](https://github.com/user-attachments/assets/28c7408b-770e-4cc9-9800-1ae9a09eba06)
 
 ---
 
 ## 📄 Key Frontend Pages
 - **Landing Page:** Welcoming interface for all users.
+![image](https://github.com/user-attachments/assets/53600d6f-d1c4-4ac6-8a36-5ab71e8b1246)
+
 - **Customer Registration/Login:** Secure access portal for customers.
+- ![image](https://github.com/user-attachments/assets/9b16552b-7e87-4e31-96ee-c63cc53e5bc3)
+- ![image](https://github.com/user-attachments/assets/d6def2e4-d9ed-4356-8db2-3f127d74f856)
+
 - **Customer Dashboard:** Personalized homepage with access to services and plans.
-- **Agent Availability:** Allows agents to update their schedules.
+- - ![image](https://github.com/user-attachments/assets/6c0145aa-8914-48da-bf09-a9300c1e9347)
+
 - **Appointment Booking/Cancellation:** Intuitive interface for managing bookings.
+- ![image](https://github.com/user-attachments/assets/79d38177-a6bd-4304-8aee-eb6c58a97f21)
+- ![image](https://github.com/user-attachments/assets/a81c69cc-aae9-479e-bd8d-14b0d6ca2c7d)
+
+- **Agent Availability:** Allows agents to update their schedules.
+- ![image](https://github.com/user-attachments/assets/63870337-2ba9-400d-827c-c09288fc4119)
+- ![image](https://github.com/user-attachments/assets/30bbaa07-1754-488c-a988-05eb559cf536)
+
 - **Admin Dashboard:** Comprehensive management tool for administrators.
+![image](https://github.com/user-attachments/assets/11d2c422-6b94-4aa2-b5ac-ded77b4d8f56)
 
 ---
 
