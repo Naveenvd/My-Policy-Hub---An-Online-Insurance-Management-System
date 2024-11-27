@@ -1,6 +1,6 @@
 # Online Insurance Management System
 
-A robust and user-friendly web application designed to simplify and streamline insurance management processes. This platform empowers customers to book appointments with agents, explore insurance plans, and manage their schedules with ease, while administrators can efficiently oversee operations.
+A user-friendly web application designed to simplify and streamline insurance management processes. This platform empowers customers to book appointments with agents, explore insurance plans, and manage their schedules with ease, while administrators can efficiently oversee operations.
 
 ---
 
