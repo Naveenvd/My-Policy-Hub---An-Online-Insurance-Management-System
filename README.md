@@ -40,32 +40,39 @@ A user-friendly web application designed to simplify and streamline insurance ma
 ---
 
 ## 🗂 Database Schema
+
 ![Untitled (2)](https://github.com/user-attachments/assets/1539e3ef-97ee-4009-9d71-134bd48ce25f)
 
 ---
 
 ## 📄 Key Frontend Pages
 - **Landing Page:** Welcoming interface for all users.
+  
 ![image](https://github.com/user-attachments/assets/53600d6f-d1c4-4ac6-8a36-5ab71e8b1246)
 
 - **Customer Registration/Login:** Secure access portal for customers.
+  
  ![image](https://github.com/user-attachments/assets/9b16552b-7e87-4e31-96ee-c63cc53e5bc3)
  ![image](https://github.com/user-attachments/assets/d6def2e4-d9ed-4356-8db2-3f127d74f856)
 
 - **Customer Dashboard:** Personalized homepage with access to services and plans.
+  
    ![image](https://github.com/user-attachments/assets/6c0145aa-8914-48da-bf09-a9300c1e9347)
 
 - **Appointment Booking/Cancellation:** Intuitive interface for managing bookings.
+  
   ![image](https://github.com/user-attachments/assets/79d38177-a6bd-4304-8aee-eb6c58a97f21)
   ![image](https://github.com/user-attachments/assets/a81c69cc-aae9-479e-bd8d-14b0d6ca2c7d)
 
 - **Agent Availability:** Allows agents to update their schedules.
+  
   ![image](https://github.com/user-attachments/assets/63870337-2ba9-400d-827c-c09288fc4119)
   ![image](https://github.com/user-attachments/assets/30bbaa07-1754-488c-a988-05eb559cf536)
 
   **Admin Dashboard:** Comprehensive management tool for administrators.
-![image](https://github.com/user-attachments/assets/11d2c422-6b94-4aa2-b5ac-ded77b4d8f56)
 
+  ![image](https://github.com/user-attachments/assets/11d2c422-6b94-4aa2-b5ac-ded77b4d8f56)
+  
 ---
 
 ## 🤝 Team Members
