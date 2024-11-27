@@ -99,8 +99,8 @@
     }
 
     .btn {
-        background: linear-gradient(135deg, #6a11cb, #2575fc);
-        color: #fff;
+        background: red;
+        color: white;
         padding: 12px 20px;
         border: none;
         border-radius: 25px;
@@ -113,7 +113,7 @@
     }
 
     .btn:hover {
-        background: linear-gradient(135deg, #2575fc, #6a11cb);
+        background: red;
         transform: scale(1.05);
     }
 
@@ -136,15 +136,16 @@
 </head>
 <body>
 <header>
-    <div class="logo"><i class="fa-solid fa-heart-pulse"></i>My Policy Hub</div>
-    	<nav>
-        	<a href="home.jsp">Home</a>
-            <a href="services.jsp">View Plans</a>
-            <a href="booking.jsp">Booking</a>
-            <a href="enterEmail.jsp">Appointments</a>
-            <a href="login.jsp">Logout</a>
+        <div class="logo"><i class="fa-solid fa-heart-pulse"></i>My Policy Hub</div>
+        <nav>
+        	<a href="adminhome.jsp">Home</a>
+            <a href="adminservices.jsp">View Plans</a>
+            <a href="addplan.jsp">Add Plan</a>
+            <a href="addagent.jsp">Add Agent</a>
+            <a href="subscribers.jsp">Subscribers</a>
+            <a href="admin_side_login.jsp">Logout</a>
         </nav>
-</header>
+    </header>
 
 <div class="container">
     <h2>Insurance Plans for <c:out value="${param.plan_category}" /> Category</h2>
@@ -163,7 +164,8 @@
                 <p><strong>Coverage:</strong> ₹<c:out value="${plan.coverageAmount}" /></p>
             </div>
             <div class="card-footer">
-                <a href="PaymentServlet?planId=${plan.planId}" class="btn">Subscribe</a>
+               <a href="" class="btn" style="background-color: red; color: white;">Delete</a>
+
             </div>
         </div>
     </c:forEach>

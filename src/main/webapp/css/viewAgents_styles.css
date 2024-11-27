@@ -77,6 +77,19 @@ h1 {
 }
 
 /* Button Styling */
+
+.btn {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    text-align: center;
+    margin-top: 10px;
+}
+
 .agent-btn {
     width: 100%;
     padding: 12px;

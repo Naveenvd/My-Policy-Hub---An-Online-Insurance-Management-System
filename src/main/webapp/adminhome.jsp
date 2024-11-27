@@ -107,18 +107,28 @@
     <header>
         <div class="logo"><i class="fa-solid fa-heart-pulse"></i>My Policy Hub</div>
         <nav>
-        	<a href="home.jsp">Home</a>
-            <a href="services.jsp">View Plans</a>
+        	<a href="adminhome.jsp">Home</a>
+            <a href="adminservices.jsp">View Plans</a>
+            <a href="addplan.jsp">Add Plan</a>
+            <a href="addagent.jsp">Add Agent</a>
             <a href="subscribers.jsp">Subscribers</a>
             <a href="admin_side_login.jsp">Logout</a>
         </nav>
     </header>
   
   <main>
-     <div class="agent-card" onclick="redirectToPage('services.jsp')">
+  	<div class="agent-card" onclick="redirectToPage('addplan.jsp')">
+    	<h2>Add Plan</h2>
+	</div>
+	
+	<div class="agent-card" onclick="redirectToPage('adminservices.jsp')">
     	<h2>View Plans</h2>
 	</div>
 	
+    <div class="agent-card" onclick="redirectToPage('addagent.jsp')">
+    	<h2>Add Agent</h2>
+	</div>
+  
     <div class="agent-card" onclick="redirectToAgentsPage()">
     	<h2>View Agents</h2>
 	</div>
@@ -133,7 +143,7 @@
   	<script>
     function redirectToAgentsPage() {
         // Redirect to the servlet's URL (the URL mapped to the AgentDetailsServlet)
-        window.location.href = "viewAgents";  // Modify the URL as per your servlet mapping
+        window.location.href = "adminviewAgents";  // Modify the URL as per your servlet mapping
     }
 	</script>
   

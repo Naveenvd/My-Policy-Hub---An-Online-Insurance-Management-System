@@ -112,7 +112,7 @@
             <a href="booking.jsp">Booking</a>
             <a href="enterEmail.jsp">Appointments</a>
             <a href="contact.html">Contact</a>
-            <a href="help.jsp">Help</a>
+            <a href="help.html">Help</a>
             <a href="login.jsp">Logout</a>
         </nav>
     </header>

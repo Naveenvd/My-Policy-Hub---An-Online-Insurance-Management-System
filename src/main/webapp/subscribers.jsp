@@ -81,6 +81,13 @@
       background-color: #f8f9fa;
       margin: 0;
     }
+    
+    nav a {
+            margin-left: 20px;
+            color: #fff;
+            text-decoration: none;
+            font-size: 16px;
+        }
 
     /* Table styling */
     table {
@@ -123,11 +130,16 @@
 
 <!-- Navigation -->
 <header>
-  <div class="navbar">
-    <h1 class="logo"><i class="fa-solid fa-heart-pulse"></i>ONLINE<br> INSURANCE</h1>
-    
-</div>
-</header>
+        <div class="logo"><i class="fa-solid fa-heart-pulse"></i>My Policy Hub</div>
+        <nav>
+        	<a href="adminhome.jsp">Home</a>
+            <a href="adminservices.jsp">View Plans</a>
+            <a href="addplan.jsp">Add Plan</a>
+            <a href="addagent.jsp">Add Agent</a>
+            <a href="subscribers.jsp">Subscribers</a>
+            <a href="admin_side_login.jsp">Logout</a>
+        </nav>
+    </header>
 <div class="container">
   <h2>Registered Customers</h2>
   <table>
